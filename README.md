@@ -59,3 +59,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Panduan Install
+
+1. Setelah clone repo, jalankan command "composer install"
+2. Jalankan php artisan storage:link
+3. Import DB shoes_store.sql
